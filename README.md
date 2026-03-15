@@ -168,13 +168,6 @@ https://github.com/nikhil22321/Cultural-Trip-Planner
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikhil22321&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
 
 # 💡 Fun Facts
 
