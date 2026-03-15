@@ -89,13 +89,6 @@ Game development implementation of the Stick Hero game.
 
 ---
 
-### 📚 Library Management System
-Software system for managing library records and operations.
-
-🔗 https://github.com/nikhil22321/Library-Mangament
-
----
-
 ### 🐾 Zoo Management System
 Object-oriented system for managing zoo operations.
 
