@@ -85,6 +85,14 @@ Git • Linux • VS Code • MongoDB • MySQL • IntelliJ
 
 # 🚀 Featured Projects
 
+### 🎮 StickHero Game
+Implementation of the classic Stick Hero game.
+
+🔗  
+https://github.com/nikhil22321/StickHero
+
+---
+
 ### 🌏 AI Trip Planner
 AI-powered travel itinerary generator using real-time location data.
 
@@ -113,30 +121,6 @@ Machine learning system for demand prediction and forecasting.
 
 🔗  
 https://github.com/nikhil22321/demand_forecast
-
----
-
-### 🎮 StickHero Game
-Implementation of the classic Stick Hero game.
-
-🔗  
-https://github.com/nikhil22321/StickHero
-
----
-
-### 🐾 Zoo Management System
-Object-oriented system for managing zoo operations.
-
-🔗  
-https://github.com/nikhil22321/Zoo-management-System
-
----
-
-### 🌍 Cultural Trip Planner
-Platform designed to plan trips around cultural experiences.
-
-🔗  
-https://github.com/nikhil22321/Cultural-Trip-Planner
 
 ---
 
