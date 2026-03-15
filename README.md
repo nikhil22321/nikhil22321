@@ -24,6 +24,7 @@
 💡 My interests include:
 
 • Software Developer
+
 • Artificial Intelligence  
 • Machine Learning  
 • Full Stack Development  
