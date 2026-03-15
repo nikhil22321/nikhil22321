@@ -1,61 +1,70 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rathore</h1>
-<h3 align="center">Computer Science Undergraduate | AI & Full Stack Developer | Research Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/nikhil22321">
-    <img src="https://komarev.com/ghpvc/?username=nikhil22321&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil22321" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Research+Engineer+Intern;Always+Learning+New+Technologies" />
+</p>
+
+<h3 align="center">🚀 Software Developer | AI & Full Stack Developer | Research Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhil22321&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 B.Tech Computer Science student at **IIIT Delhi**  
-💡 Interested in **Artificial Intelligence, Full Stack Development, and Distributed Systems**  
-🧠 Strong foundation in **Data Structures, Algorithms, DBMS, Operating Systems and Software Engineering**  
-🌏 Research Intern at **Center of Smart Systems (CS2), Singapore**  
-🏆 Winner of **HCL AI/ML Hackathon**  
+💻 Passionate **Software Developer** interested in building intelligent systems  
+🧠 Strong foundation in **DSA, DBMS, OS, and Software Engineering**  
+🌏 Research Engineer Intern at **Center of Smart Systems (CS2), Singapore**  
+🏆 Winner of **HCL AI/ML Hackathon**
 
-I enjoy building **AI-powered applications, scalable backend systems, and solving challenging problems**.
+💡 I enjoy building **AI-powered applications, scalable backend systems, and impactful products.**
 
 ---
 
-## 🔗 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/nikhil-rathore-64b8732b3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:nikhil22321@iiitd.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/nikhil-rathore-64b8732b3/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:nikhil22321@iiitd.ac.in">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/nikhil22321">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
 </p>
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
-C++ • Java • Python • C • SQL • JavaScript
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,sql" />
+</p>
 
-### Web & Frameworks
-React • Django • FastAPI • HTML • CSS
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,django,html,css,fastapi" />
+</p>
 
-### Tools & Technologies
-Git • Linux • VS Code • MongoDB • MySQL • IntelliJ
-
-### Areas of Interest
-Artificial Intelligence  
-Machine Learning  
-Federated Learning  
-Computer Vision  
-Full Stack Development  
+### ⚙ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,mongodb,mysql" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🌏 AI Trip Planner
-AI powered itinerary generator using real-time location data.
-
-Tech: React, Google Places API, Gemini API
+AI-powered travel itinerary generator using real-time location data.
 
 🔗 https://github.com/nikhil22321/AI-trip-planner
 
@@ -69,35 +78,35 @@ A smart AI assistant capable of automating tasks and providing intelligent respo
 ---
 
 ### 🏨 QuickStay
-Hotel booking platform focusing on smooth user experience.
+Hotel booking platform designed for seamless booking experiences.
 
 🔗 https://github.com/nikhil22321/QuickStay
 
 ---
 
 ### 🧠 Demand Forecast
-Machine learning based system for forecasting demand patterns.
+Machine learning system for demand prediction and forecasting.
 
 🔗 https://github.com/nikhil22321/demand_forecast
 
 ---
 
 ### 🎮 StickHero Game
-Game development implementation of the Stick Hero game.
+Implementation of the classic Stick Hero game.
 
 🔗 https://github.com/nikhil22321/StickHero
 
 ---
 
 ### 🐾 Zoo Management System
-Object-oriented system for managing zoo operations.
+Object-oriented system to manage zoo operations.
 
 🔗 https://github.com/nikhil22321/Zoo-management-System
 
 ---
 
 ### 🌍 Cultural Trip Planner
-A platform to plan trips focusing on cultural experiences.
+Platform designed to plan trips around cultural experiences.
 
 🔗 https://github.com/nikhil22321/Cultural-Trip-Planner
 
@@ -107,9 +116,9 @@ A platform to plan trips focusing on cultural experiences.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhil22321&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil22321&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil22321&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil22321&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -123,11 +132,19 @@ A platform to plan trips focusing on cultural experiences.
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil22321&theme=tokyo-night"/>
+</p>
+
+---
+
 # 🏆 Achievements
 
 🏅 98.74 percentile in **Naukri Campus Young Turks 2025**  
 🏅 Winner of **HCL AI/ML Hackathon**  
-🏅 Ranked #1 for **40 consecutive days in Coding Ninjas Problem of the Day**  
+🏅 Ranked #1 for **40 consecutive days in Coding Ninjas POTD**  
 🏅 Teaching Assistant for **Differential Equations at IIIT Delhi**
 
 ---
@@ -140,4 +157,6 @@ A platform to plan trips focusing on cultural experiences.
 
 ---
 
-⭐️ From [Nikhil Rathore](https://github.com/nikhil22321)
+<p align="center">
+⭐️ From <a href="https://github.com/nikhil22321">Nikhil Rathore</a>
+</p>
