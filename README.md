@@ -1,32 +1,41 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rathore</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Research+Engineer+Intern;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Research+Engineer+Intern;Building+Intelligent+Systems" />
 </p>
 
-<h3 align="center">🚀 Software Developer | AI & Full Stack Developer | Research Enthusiast</h3>
+<h3 align="center">💻 Software Developer | AI & Machine Learning | Full Stack Development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhil22321&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=nikhil22321&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science student at **IIIT Delhi**  
-💻 Passionate **Software Developer** interested in building intelligent systems  
-🧠 Strong foundation in **DSA, DBMS, OS, and Software Engineering**  
-🌏 Research Engineer Intern at **Center of Smart Systems (CS2), Singapore**  
+🎓 B.Tech Computer Science student at **IIIT Delhi**
+
+💻 Passionate **Software Developer** focused on building intelligent systems and scalable applications.
+
+🌏 Research Engineer Intern at **Center of Smart Systems (CS2), Singapore**
+
 🏆 Winner of **HCL AI/ML Hackathon**
 
-💡 I enjoy building **AI-powered applications, scalable backend systems, and impactful products.**
+💡 My interests include:
+
+• Artificial Intelligence  
+• Machine Learning  
+• Full Stack Development  
+• Distributed Systems  
+• Building real-world AI applications
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/nikhil-rathore-64b8732b3/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
@@ -38,25 +47,38 @@
 <a href="https://github.com/nikhil22321">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
+
 </p>
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### Programming Languages
+C++ • Java • Python • C • JavaScript • SQL
+
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,sql"/>
 </p>
 
-### 🌐 Web Development
+---
+
+### Web Development & Frameworks
+
+React • Django • FastAPI • HTML • CSS
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,django,html,css,fastapi" />
+<img src="https://skillicons.dev/icons?i=react,django,html,css,fastapi"/>
 </p>
 
-### ⚙ Tools & Technologies
+---
+
+### Tools & Technologies
+
+Git • Linux • VS Code • MongoDB • MySQL • IntelliJ
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,mongodb,mysql"/>
 </p>
 
 ---
@@ -73,46 +95,52 @@ AI-powered travel itinerary generator using real-time location data.
 ### 🤖 Virtual Assistant
 A smart AI assistant capable of automating tasks and providing intelligent responses.
 
-🔗 https://github.com/nikhil22321/Virtual-Assistant
+🔗  
+https://github.com/nikhil22321/Virtual-Assistant
 
 ---
 
 ### 🏨 QuickStay
 Hotel booking platform designed for seamless booking experiences.
 
-🔗 https://github.com/nikhil22321/QuickStay
+🔗  
+https://github.com/nikhil22321/QuickStay
 
 ---
 
 ### 🧠 Demand Forecast
 Machine learning system for demand prediction and forecasting.
 
-🔗 https://github.com/nikhil22321/demand_forecast
+🔗  
+https://github.com/nikhil22321/demand_forecast
 
 ---
 
 ### 🎮 StickHero Game
 Implementation of the classic Stick Hero game.
 
-🔗 https://github.com/nikhil22321/StickHero
+🔗  
+https://github.com/nikhil22321/StickHero
 
 ---
 
 ### 🐾 Zoo Management System
-Object-oriented system to manage zoo operations.
+Object-oriented system for managing zoo operations.
 
-🔗 https://github.com/nikhil22321/Zoo-management-System
+🔗  
+https://github.com/nikhil22321/Zoo-management-System
 
 ---
 
 ### 🌍 Cultural Trip Planner
 Platform designed to plan trips around cultural experiences.
 
-🔗 https://github.com/nikhil22321/Cultural-Trip-Planner
+🔗  
+https://github.com/nikhil22321/Cultural-Trip-Planner
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -124,15 +152,15 @@ Platform designed to plan trips around cultural experiences.
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil22321&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil22321&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil22321&theme=tokyo-night"/>
@@ -140,19 +168,20 @@ Platform designed to plan trips around cultural experiences.
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
-🏅 98.74 percentile in **Naukri Campus Young Turks 2025**  
-🏅 Winner of **HCL AI/ML Hackathon**  
-🏅 Ranked #1 for **40 consecutive days in Coding Ninjas POTD**  
-🏅 Teaching Assistant for **Differential Equations at IIIT Delhi**
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nikhil22321&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ---
 
 # 💡 Fun Facts
 
-🎨 I enjoy **sketching and 3D design**  
-✈️ Love **travelling and exploring cultures**  
+🎨 I enjoy **sketching and 3D design**
+
+✈️ Love **travelling and exploring cultures**
+
 🏏 Passionate about **playing and watching cricket**
 
 ---
