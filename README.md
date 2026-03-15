@@ -20,10 +20,10 @@
 
 🌏 Research Engineer Intern at **Center of Smart Systems (CS2), Singapore**
 
-🏆 Winner of **HCL AI/ML Hackathon**
 
 💡 My interests include:
 
+• Software Developer
 • Artificial Intelligence  
 • Machine Learning  
 • Full Stack Development  
